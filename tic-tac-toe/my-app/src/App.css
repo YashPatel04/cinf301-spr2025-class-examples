@@ -1,0 +1,17 @@
+.square{
+  width: 4vw;
+  height: 4vw;
+  font-weight: 1000;
+  font-size:xx-large;
+  padding:1px;
+} 
+.board-row{
+  display:flex;
+  flex-direction: row;
+}
+
+#msg{
+  margin:12px;
+  font-size: x-large;
+  color: red;
+}
